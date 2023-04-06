@@ -1,7 +1,3 @@
-
-
-Esse é um projeto, que fiz com a ajuda do <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo<a> sobre o robo da Android! O site está totalmente <strong>responsivo</strong>, e com vários elementos divertidos de se programar! Confira eles no repositorio acima.
-  
 # Site-Android
 
 Esse é um projeto, que fiz com a ajuda do [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo) sobre o robo da Android! O site está totalmente `responsivo`, e com vários elementos divertidos de se programar! Confira eles no repositorio acima.
